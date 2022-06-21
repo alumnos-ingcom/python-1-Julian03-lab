@@ -11,7 +11,7 @@ def signo(numero):
     '''
     Recibe un numero y retorna informacion acerca de si el numero es positivo, negativo o cero.
     '''
-    valor_original = 20
+    valor_original = 0
     valor_comparativo = valor_original - numero
     if valor_comparativo > valor_original:
         signo = "-"
