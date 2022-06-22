@@ -7,7 +7,8 @@
 Escribir una función que retorne una tuple con factores primos de un numero entero positivo.
 """
 # Reemplazar por las funciones del ejercicio
-
+def factores_primos()
+    pass
 
 def principal():  # pragma: no cover
     """
